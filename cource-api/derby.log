@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Oct 21 16:19:14 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-017c-a278-1924-000002106cd0 
+on database directory memory:E:\boot\cource-api\cource-api\f89321b9-79d4-4167-8bee-ca6017aa518f with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@4e0e2f2a 
+Loaded from file:/C:/Users/vipin%20pandey/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=13.0.1+9
+user.dir=E:\boot\cource-api\cource-api
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
